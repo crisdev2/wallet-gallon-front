@@ -105,13 +105,6 @@ export const customTheme = createTheme({
         }
       }
     },
-    MuiFormControl: {
-      styleOverrides: {
-        root: {
-          width: '100%',
-        }
-      }
-    },
     MuiListSubheader: {
       styleOverrides: {
         root: {
